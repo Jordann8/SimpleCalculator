@@ -1,6 +1,8 @@
 # SimpleCalculator
 
-This is a simple calculator app built with HTML, CSS, JS. It performs basic arithmetic operations and supports decimal and negative numbers.
+<img width="1143" height="923" alt="Calculatorapp" src="https://github.com/user-attachments/assets/5c426574-9298-4363-9911-750fb9862827" />
+
+This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
 
 ## Features
 
