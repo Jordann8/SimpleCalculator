@@ -1,2 +1,26 @@
 # SimpleCalculator
+
 This is a simple calculator app built with HTML, CSS, JS. It performs basic arithmetic operations and supports decimal and negative numbers.
+
+## Features
+
+*   Addition, subtraction, multiplication, and division.
+*   Decimal and negative number support.
+*   Display of current expression and result.
+*   Clear and delete functionality.
+*   Evaluation of expressions.
+
+## Installation
+
+1.  Clone the repository: `git clone [repository URL]`
+2.  Navigate to the project directory: `cd [project directory]`
+3.  Install dependencies: `npm install` (if using npm)
+4.  Run the app: `npm start` (or similar command)
+
+## Usage
+
+1.  Open the app.
+2.  Enter numbers and operators using the buttons.
+3.  Press "=" or Enter to calculate the result.
+4.  Use "C" to clear the current expression.
+5.  Use "-" to delete the last character.
